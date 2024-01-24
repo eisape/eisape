@@ -4,8 +4,8 @@ I use machine learning and NLP to model human language processing. My work is su
 
 ---
 <p align="center">
-    <a href="mailto:eisape@mit.edu" style="color:black;font-size: 16px;">eisape@mit.edu</a>&nbsp
-    <a href="eisape_files/cv.pdf" style="color:black;font-size: 16px;">cv</a>&nbsp
     <a href="https://twitter.com/tiwa_eisape" style="color:black;font-size: 16px;">twitter</a>&nbsp
     <a href="https://scholar.google.com/citations?hl=en&user=1FI8NfEAAAAJ&view_op=list_works&sortby=pubdate" style="color:black;font-size: 16px;">google scholar</a>&nbsp
+    <a href="eisape_files/cv.pdf" style="color:black;font-size: 16px;">cv</a>&nbsp
+    <a href="mailto:eisape@mit.edu" style="color:black;font-size: 16px;">eisape@mit.edu</a>&nbsp
 </p>
